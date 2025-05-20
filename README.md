@@ -1,11 +1,11 @@
 cosmetic-e-commerce: The cosmetic website project showcases a functional and attractive online store built with HTML, CSS, and JavaScript. It offers key features like product listings, reviews, and secure checkout, providing a smooth user experience. This project helped improve my front-end development skills.
-📌 Features
-🛍️ Display of various cosmetic products (foundation, kajal, eye shadow, mascara, blush, lipstick, setting spray, lip balm)
-⭐ Product reviews and ratings
-🎁 Gift card section
-💡 Directions to use for each product
-❤️ Wishlist functionality
-🛒 Shopping cart with quantity controls
-👤 Personalized product recommendations or customizations
-💳 Secure payment form (frontend-only)
-📱 Fully responsive design for mobile, tablet, and desktop
+- 📌 Features
+- 🛍️ Display of various cosmetic products (foundation, kajal, eye shadow, mascara, blush, lipstick, setting spray, lip balm)
+- ⭐ Product reviews and ratings
+- 🎁 Gift card section
+- 💡 Directions to use for each product
+- ❤️ Wishlist functionality
+- 🛒 Shopping cart with quantity controls
+- 👤 Personalized product recommendations or customizations
+- 💳 Secure payment form (frontend-only)
+- 📱 Fully responsive design for mobile, tablet, and desktop
